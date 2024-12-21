@@ -1,4 +1,4 @@
-# OpenAI O3/O1 Landing Page
+# OpenAI O3 Landing Page https://o3chat.online/
 
 A modern, responsive landing page built with Next.js and Tailwind CSS to showcase OpenAI's latest O3 and O1 models.
 
